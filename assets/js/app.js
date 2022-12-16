@@ -12,7 +12,7 @@ function language() {
     document.getElementById("en").style.color = "#333";
     // location.href = "../assets/es/index.html";
   } else {
-    location.href = "../../index.html";
+    location.href = "/index.html";
     document.getElementById("es").style.color = "#333";
     document.getElementById("en").style.color = "#18d26e";
   }
